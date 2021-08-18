@@ -1,0 +1,66 @@
+.top {
+  width: auto;
+  height: 200px;
+  border: solid black 5px;
+}
+
+.purpleRec {
+  background-color: purple;
+  width: 50px;
+  height: 130px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.greenRec {
+  background-color: green;
+  width: 400px;
+  height: 150px;
+  margin-top: -150px;
+  margin-left: 150px;
+}
+
+.blueCirc {
+  background-color: lightblue;
+  width: 150px;
+  height: 150px;
+  margin-top: -150px;
+  margin-left: 600px;
+  border-radius: 50%;
+}
+
+.middle {
+  width: auto;
+  height: 200px;
+  border: dotted black 5px;
+  margin-top: 20px;
+}
+
+.yellowRec {
+  background-color: yellow;
+  width: auto;
+  height: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  box-shadow: gray 6px 6px 6px;
+}
+
+.bottom {
+  width: 600px;
+  height: 400px;
+  border: solid gray 1px;
+  box-shadow: gray 3px 3px 3px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 48pt;
+}
+
+h1 {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
