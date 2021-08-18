@@ -1,0 +1,41 @@
+.gray {
+  background-color: gray;
+  width: auto;
+  padding: 30px;
+}
+
+#blueSquare {
+  background-color: blue;
+  width: 20px;
+  height: 20px;
+  padding: 30px;
+}
+
+.white {
+  width: auto;
+  padding: 70px;
+}
+
+.blue {
+  background-color: blue;
+  width: auto;
+  padding: 70px;
+}
+
+.aqua {
+  background-color: rgb(21, 212, 226);
+  width: auto;
+  padding: 70px;
+}
+
+.green {
+  background-color: rgb(62, 226, 21);
+  width: auto;
+  padding: 70px;
+}
+
+.yellow {
+  background-color: rgb(220, 241, 23);
+  width: auto;
+  padding: 70px;
+}
